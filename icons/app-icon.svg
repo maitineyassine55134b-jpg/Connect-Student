@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Fond plein (iOS et Android appliquent eux-mêmes les coins arrondis) -->
+  <rect width="1024" height="1024" fill="#ff0000"/>
+  <g transform="translate(512 512) scale(9.6) translate(-50 -55)">
+    <!-- Ailes -->
+    <path d="M20 36 C30 38, 36 48, 40 62 C43 70, 46 74, 50 74 C54 74, 57 70, 60 62 C64 48, 70 38, 80 36 C82 58, 70 78, 50 78 C30 78, 18 58, 20 36Z" fill="#ffe5e5"/>
+    <!-- Tête -->
+    <circle cx="50" cy="40" r="8" fill="#ffe5e5"/>
+  </g>
+</svg>
